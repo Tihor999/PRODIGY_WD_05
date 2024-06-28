@@ -21,5 +21,5 @@ This is a simple weather prediction website for major Indian cities. It displays
 3. Select a city from the dropdown menu.
 4. Click on the "Get Weather" button to see the weather information for the selected city.
 
-## File Structure
+
 
